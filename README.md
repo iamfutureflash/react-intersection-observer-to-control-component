@@ -1,1 +1,1 @@
-# react-intersection-observer-to-control-component
+# react-intersection-observer-to-control-component by iamfutureflash
